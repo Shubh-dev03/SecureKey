@@ -63,7 +63,7 @@ Existing tools often felt cluttered or overloaded with ads, so I built SecureKey
 ##  Links
 
 - GitHub Repository: https://github.com/Shubh-dev03/SecureKey
-- Portfolio: shubham-bharti-portfolio.vercel.app/
+- Portfolio: https://shubham-bharti-portfolio.vercel.app/
 - Live Demo: https://secure-key-rho.vercel.app/
 
 ---
